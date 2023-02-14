@@ -1,5 +1,7 @@
 # Zhihu2Markdown: 将知乎专栏的文章转成 HTML 及 Markdown 格式
 
+原始代码来自 @Evian-Zhang 的 [知乎](https://zhuanlan.zhihu.com/p/56694990) 和 [github](https://github.com/Evian-Zhang/Zhihu2Markdown)
+
 本 python 脚本可以将知乎专栏的文章转成 HTML 及 Markdown 格式并将文章中的图片一起储存在本地。
 
 提供的功能有：
